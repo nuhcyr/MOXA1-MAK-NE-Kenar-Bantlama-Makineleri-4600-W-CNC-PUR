@@ -17,14 +17,41 @@ Temel yaklaşım: Siber güvenlik ve makine emniyeti birlikte düşünülmelidir
 - Siber olaylara müdahale akışını ve kanıtların korunmasını ele almak.
 - Yapay zekâ tabanlı kontrol sistemlerinde hata durumlarında güvenli davranışı tanımlamak.
 
-Safety Architecture
--Makinedeki fiziksel tehlikeler, emniyet fonksiyonları, normal PLC ile Safety PLC arasındaki fark, güvenli durum (safe state) ve siber müdahalenin emniyet          zincirine etkisi incelenir.
-IEC 62443 Mini Workshop
--Makine varlıkları güvenlik bölgelerine ayrılır. Bölgeler arası iletişim noktaları belirlenir ve uzak erişimin DMZ, güvenlik duvarı, VPN ve erişim kontrolleriyle nasıl sınırlandırılabileceği değerlendirilir.
-Threat & Risk + Risk Matrix
--Olası saldırganlar, erişim yolları ve saldırı zincirleri üzerinden tehdit senaryoları oluşturulur. Olasılık, şiddet ve maruziyet puanları kullanılarak riskler değerlendirilir; insan güvenliğine yönelik fiziksel sonuçlar ayrıca görünür tutulur.
-Secure Remote Access
--Mevcut uzak erişim yaklaşımı ile hedeflenen daha güvenli mimari karşılaştırılır. Jump server, VPN, çok faktörlü kimlik doğrulama (MFA), kişisel hesaplar, oturum kayıtları ve varsayılan kapalı erişim gibi ilkeler ele alınır.
+### LAB 1 — Safety Architecture
+**Çıktı:** Safety Function Map
+
+- Fiziksel tehlikelerin belirlenmesi
+- Emniyet fonksiyonlarının tanımlanması
+- Normal PLC ve Safety PLC farkları
+- Güvenli durum (Safe State)
+- Siber müdahalenin emniyet zincirine etkisi
+
+### LAB 2 — IEC 62443 Mini Workshop
+**Çıktı:** Zone / Conduit Diagram
+
+- Makine varlıklarının güvenlik bölgelerine ayrılması
+- Bölgeler arası iletişim kanallarının belirlenmesi
+- DMZ ve güvenlik duvarı yaklaşımı
+- VPN ve erişim kontrolleri
+
+### LAB 3 — Threat & Risk + Risk Matrix
+**Çıktı:** Risk Register
+
+- Olası saldırganların ve erişim yollarının belirlenmesi
+- Tehdit senaryolarının oluşturulması
+- Olasılık, şiddet ve maruziyet puanlaması
+- Risklerin önceliklendirilmesi
+- Fiziksel emniyet sonuçlarının değerlendirilmesi
+
+### LAB 4 — Secure Remote Access
+**Çıktı:** Secure Architecture
+
+- Jump Server ile kontrollü erişim
+- VPN ile bağlantı güvenliği
+- Çok faktörlü kimlik doğrulama (MFA)
+- Kişisel hesaplar ve oturum kayıtları
+- Varsayılan kapalı erişim yaklaşımı
+- Emniyet fonksiyonlarının bağımsızlığı
 
 
 
