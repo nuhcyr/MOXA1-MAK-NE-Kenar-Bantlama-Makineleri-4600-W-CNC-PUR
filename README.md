@@ -17,14 +17,14 @@ Temel yaklaşım: Siber güvenlik ve makine emniyeti birlikte düşünülmelidir
 - Siber olaylara müdahale akışını ve kanıtların korunmasını ele almak.
 - Yapay zekâ tabanlı kontrol sistemlerinde hata durumlarında güvenli davranışı tanımlamak.
 
- — Safety Architecture
-Makinedeki fiziksel tehlikeler, emniyet fonksiyonları, normal PLC ile Safety PLC arasındaki fark, güvenli durum (safe state) ve siber müdahalenin emniyet zincirine etkisi incelenir.
- — IEC 62443 Mini Workshop
-Makine varlıkları güvenlik bölgelerine ayrılır. Bölgeler arası iletişim noktaları belirlenir ve uzak erişimin DMZ, güvenlik duvarı, VPN ve erişim kontrolleriyle nasıl sınırlandırılabileceği değerlendirilir.
- — Threat & Risk + Risk Matrix
-Olası saldırganlar, erişim yolları ve saldırı zincirleri üzerinden tehdit senaryoları oluşturulur. Olasılık, şiddet ve maruziyet puanları kullanılarak riskler değerlendirilir; insan güvenliğine yönelik fiziksel sonuçlar ayrıca görünür tutulur.
- — Secure Remote Access
-Mevcut uzak erişim yaklaşımı ile hedeflenen daha güvenli mimari karşılaştırılır. Jump server, VPN, çok faktörlü kimlik doğrulama (MFA), kişisel hesaplar, oturum kayıtları ve varsayılan kapalı erişim gibi ilkeler ele alınır.
+Safety Architecture
+-Makinedeki fiziksel tehlikeler, emniyet fonksiyonları, normal PLC ile Safety PLC arasındaki fark, güvenli durum (safe state) ve siber müdahalenin emniyet          zincirine etkisi incelenir.
+IEC 62443 Mini Workshop
+-Makine varlıkları güvenlik bölgelerine ayrılır. Bölgeler arası iletişim noktaları belirlenir ve uzak erişimin DMZ, güvenlik duvarı, VPN ve erişim kontrolleriyle nasıl sınırlandırılabileceği değerlendirilir.
+Threat & Risk + Risk Matrix
+-Olası saldırganlar, erişim yolları ve saldırı zincirleri üzerinden tehdit senaryoları oluşturulur. Olasılık, şiddet ve maruziyet puanları kullanılarak riskler değerlendirilir; insan güvenliğine yönelik fiziksel sonuçlar ayrıca görünür tutulur.
+Secure Remote Access
+-Mevcut uzak erişim yaklaşımı ile hedeflenen daha güvenli mimari karşılaştırılır. Jump server, VPN, çok faktörlü kimlik doğrulama (MFA), kişisel hesaplar, oturum kayıtları ve varsayılan kapalı erişim gibi ilkeler ele alınır.
 
 
 
