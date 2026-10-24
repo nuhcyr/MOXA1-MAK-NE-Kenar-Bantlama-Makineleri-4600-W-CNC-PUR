@@ -1,13 +1,6 @@
 # MOXA1-MAK-NE-Kenar-Bantlama-Makineleri-4600-W-CNC-PUR
 Yazılım mühendisliği güncel konular dersi kapsamında CRA — Siber Dayanıklılık Yasası altında seçilen makinanın incelenmesi
 
-Safety-4.0-Bootcamp/
-├── README.md
-├── Lab_Foyu_1_Safety_Architecture.pdf
-├── Lab_Foyu_2_IEC_62443.pdf
-├── Lab_Foyu_3_Threat_Risk.pdf
-└── Lab_Foyu_4_Secure_Remote_Access.pdf
-
 Kenar Bantlama Makinesi, endüstriyel bir kenar bantlama makinesini örnek alarak operasyonel teknoloji (OT) güvenliği, fonksiyonel emniyet ve siber risklerin fiziksel sonuçlarını inceleyen uygulamalı bir laboratuvar çalışmasıdır.
 
 Çalışmada; sıcak yapıştırma çenesi, film kesme bıçağı, ışık perdesi, kapak kilidi, Safety PLC ve güvenli tork kapatma (STO) gibi makine bileşenleri ele alınır. Özellikle internete açık uzak bakım modülünün, makine kontrol sistemleri ve operatör güvenliği açısından oluşturabileceği riskler değerlendirilir.
