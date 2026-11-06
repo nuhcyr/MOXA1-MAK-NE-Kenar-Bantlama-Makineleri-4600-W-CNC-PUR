@@ -53,6 +53,44 @@ Temel yaklaşım: Siber güvenlik ve makine emniyeti birlikte düşünülmelidir
 - Varsayılan kapalı erişim yaklaşımı
 - Emniyet fonksiyonlarının bağımsızlığı
 
+- ### LAB 5 — SBOM / CVE / Patch
+
+**Çıktı:** Vulnerability Decision
+
+- Yazılım bileşenlerinin ve sürümlerinin belirlenmesi (SBOM)
+- CVE kayıtlarının ve CVSS önem derecelerinin incelenmesi
+- Zafiyetin sistemi etkileyip etkilemediğinin değerlendirilmesi
+- Üretimin durdurulması veya devam ettirilmesi kararının verilmesi
+- Güvenlik yamalarının test edilmesi ve uygulanması
+- Yama sonrası Safety Validation kontrollerinin değerlendirilmesi
+- Yama uygulanamıyorsa telafi edici güvenlik önlemlerinin belirlenmesi
+
+### LAB 6 — CRA Incident Simulation
+
+**Çıktı:** Incident Workflow
+
+- Siber güvenlik olayının tespit edilmesi ve değerlendirilmesi
+- Olay müdahale ekibinin ve sorumluların belirlenmesi
+- İlk 15 dakika ve ilk 2 saat için müdahale adımlarının oluşturulması
+- Emniyet fonksiyonlarının doğrulanması
+- Şüpheli hesapların erişiminin kapatılması
+- PLC, HMI ve ağ kayıtlarının korunması
+- CRA kapsamında 24 saat, 72 saat ve 14 günlük bildirim süreçlerinin planlanması
+- Olayın kök nedeninin, etkilerinin ve alınacak önlemlerin raporlanması
+
+### LAB 7 — AI Safety Challenge
+
+**Çıktı:** AI Fail-Safe Decision
+
+- Yapay zekâ modelinin yanlış sınıflandırma risklerinin değerlendirilmesi
+- Hatalı kararlar için ikinci kontrol ve insan onayının belirlenmesi
+- Kamera verilerinin manipülasyona ve bozulmaya karşı izlenmesi
+- Şüpheli girdilerde güvenli davranışın tanımlanması
+- Model güven eşiğinin (Confidence Threshold) belirlenmesi
+- Güven seviyesi düştüğünde sistemin güvenli moda geçirilmesi
+- Human Override ve Fail-Safe mekanizmalarının tanımlanması
+- Yapay zekâ kararlarında RED ve Fallback süreçlerinin oluşturulması
+
 
 
 
